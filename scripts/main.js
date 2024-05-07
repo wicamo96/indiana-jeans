@@ -18,4 +18,6 @@ const render = async () => {
     ${submissionHTML}`
 }
 
+document.addEventListener("newSubmissionCreated", render)
+
 render()
