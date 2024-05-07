@@ -1,0 +1,7 @@
+.submission {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+    margin: 2em;
+    padding: 1em;
+}
